@@ -1,5 +1,5 @@
 # dbt + Snowflake Learning Project
-This project is a hands-on learning experience with dbt (data build tool) and Snowflake. It includes setting up the environment, configuring dbt, creating and transforming models, using macro functions, applying tests, and deploying models using Airflow. Future steps include configuring Apache Airflow.
+This project is a hands-on learning experience with dbt (data build tool) and Snowflake. It includes setting up the environment, configuring dbt, creating and transforming models, using macro functions, applying tests, and deploying models using Airflow.
 
 ## Table of Contents
 - [Setup dbt + Snowflake](#setup-dbt--snowflake)
