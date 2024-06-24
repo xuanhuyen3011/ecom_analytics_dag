@@ -51,7 +51,7 @@ Create reusable SQL snippets using dbt's Jinja-based macros. Store these macros 
 ## Lessons learnt
 - During the configuration, Snowflake account name should be formatted as `ORGNAME-ACCNAME` ([refer to the documentation here](https://docs.snowflake.com/en/user-guide/admin-account-identifier)).
 - Ensure the `dbt_project.yml` file is located at a fixed path to prevent errors when importing the DAG into Airflow.
-- Debugged an Airflow failure caused by issues reading the audit log.
+- Used the audit log to debug an Airflow failure error.
 
 ## Credits
 Code along with Jayzern
